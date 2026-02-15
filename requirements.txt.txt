@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+folium
+streamlit-folium
+streamlit-mic-recorder
